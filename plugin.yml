@@ -1,0 +1,9 @@
+name: Nether_Core
+version: 1.0
+main: nether\ui\Main
+author: Nether
+api: 3.0.0
+
+commands:
+  dl:
+    description: Opens Duel UI
